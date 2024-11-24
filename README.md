@@ -1,3 +1,5 @@
+# Salesforce Developer Interview Querstions for 2 year Experienced:
+## NOTE: this questions list i made based on the around 7 interviews i given.
 
 **SOQL:**
 
